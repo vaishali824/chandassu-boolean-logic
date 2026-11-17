@@ -1,4 +1,6 @@
 # Telugu Chandassu as a Finite-State Digital Logic Architecture
+[![DOI](https://zenodo.org)](https://doi.org/10.5281/zenodo.24304302)
+
 
 A formal mathematical and computational framework mapping ancient Indian prosody (*Chandaḥśāstra* and Telugu *Vrutha Padyalu*) to modern digital logic, Karnaugh map minimization, combinatorics, and error-detection architectures.
 
@@ -107,7 +109,7 @@ F &= A(1) = \mathbf{A} && \text{(Identity Law)}
 ## Verification & Preprint
 
 * **Automated Proof Suite:** Run `python chandassu_logic.py` to verify all theorems exhaustively across the 8-state space.
-* **Preprint PDF:** *(Add your Zenodo DOI link here once published)*
+* **Preprint PDF (Zenodo):** https://doi.org/10.5281/zenodo.24304302
 
 ---
 
